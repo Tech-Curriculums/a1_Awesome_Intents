@@ -20,7 +20,8 @@ public class MainActivity extends Activity {
 		
 		//remember lowerCamelCase for buttons
 		doStuffButton.setOnClickListener(new View.OnClickListener() {
-			
+		
+			//here we send the user to the next activity
 			@Override
 			public void onClick(View view) {
 				Intent intent = new Intent(MainActivity.this, OtherActivity.class);
