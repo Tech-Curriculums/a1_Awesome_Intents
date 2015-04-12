@@ -8,7 +8,6 @@ I want to feel the freedom of intents -- you're programming a smartphone, you ca
 
 At their most fundamental level, Intents are used to open new pages (often return simple succeed/fail results).
 
-It is highly recommended by Google to use this method to create multiple pages.
 
 This facet of the intents will demo how we can:
 
